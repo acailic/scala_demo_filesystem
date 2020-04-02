@@ -1,4 +1,4 @@
-# scala_demo_filesystem
+# Scala demo filesystem
 
 Scala code demo
 
